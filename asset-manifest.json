@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MicrosoftTeamsProject/static/css/main.89fc417b.chunk.css",
-    "main.js": "/MicrosoftTeamsProject/static/js/main.9d71d49f.chunk.js",
-    "main.js.map": "/MicrosoftTeamsProject/static/js/main.9d71d49f.chunk.js.map",
-    "runtime-main.js": "/MicrosoftTeamsProject/static/js/runtime-main.661f16e4.js",
-    "runtime-main.js.map": "/MicrosoftTeamsProject/static/js/runtime-main.661f16e4.js.map",
-    "static/js/2.3e96a129.chunk.js": "/MicrosoftTeamsProject/static/js/2.3e96a129.chunk.js",
-    "static/js/2.3e96a129.chunk.js.map": "/MicrosoftTeamsProject/static/js/2.3e96a129.chunk.js.map",
-    "index.html": "/MicrosoftTeamsProject/index.html",
-    "precache-manifest.4a99b04ff703aa505eb288f110633900.js": "/MicrosoftTeamsProject/precache-manifest.4a99b04ff703aa505eb288f110633900.js",
-    "service-worker.js": "/MicrosoftTeamsProject/service-worker.js",
-    "static/css/main.89fc417b.chunk.css.map": "/MicrosoftTeamsProject/static/css/main.89fc417b.chunk.css.map",
-    "static/js/2.3e96a129.chunk.js.LICENSE.txt": "/MicrosoftTeamsProject/static/js/2.3e96a129.chunk.js.LICENSE.txt"
+    "main.css": "/deploy/static/css/main.89fc417b.chunk.css",
+    "main.js": "/deploy/static/js/main.9d71d49f.chunk.js",
+    "main.js.map": "/deploy/static/js/main.9d71d49f.chunk.js.map",
+    "runtime-main.js": "/deploy/static/js/runtime-main.74e8f873.js",
+    "runtime-main.js.map": "/deploy/static/js/runtime-main.74e8f873.js.map",
+    "static/js/2.3e96a129.chunk.js": "/deploy/static/js/2.3e96a129.chunk.js",
+    "static/js/2.3e96a129.chunk.js.map": "/deploy/static/js/2.3e96a129.chunk.js.map",
+    "index.html": "/deploy/index.html",
+    "precache-manifest.02c5aae7157980c098d56d751a4eb949.js": "/deploy/precache-manifest.02c5aae7157980c098d56d751a4eb949.js",
+    "service-worker.js": "/deploy/service-worker.js",
+    "static/css/main.89fc417b.chunk.css.map": "/deploy/static/css/main.89fc417b.chunk.css.map",
+    "static/js/2.3e96a129.chunk.js.LICENSE.txt": "/deploy/static/js/2.3e96a129.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.661f16e4.js",
+    "static/js/runtime-main.74e8f873.js",
     "static/js/2.3e96a129.chunk.js",
     "static/css/main.89fc417b.chunk.css",
     "static/js/main.9d71d49f.chunk.js"
